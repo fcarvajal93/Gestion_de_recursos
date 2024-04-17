@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gestion Recursos</string>
+    <string name="tvTitulo1">Gestion Recursos</string>
+    <string name="tvVersionAndroidLB">1. Version Android:</string>
+    <string name="tvVersionAndroid"></string>
+    <string name="tvLight">2. Flashlight:</string>
+    <string name="btnOff">Off</string>
+    <string name="btnOn">On</string>
+    <string name="tvLevelBattery">3. Level of Battery</string>
+    <string name="tvLevelBattery_2"></string>
+    <string name="tvState">4. Conection:</string>
+    <string name="tvConexion"></string>
+    <string name="tvTitulo2">Gestion Permisos</string>
+    <string name="tvDactilar">Status Permission Fingerprint</string>
+    <string name="tvCamera">Status Permission Camera</string>
+    <string name="tvEws">Status Permission External Storage</string>
+    <string name="tvRs">Status Permission Read Storage</string>
+    <string name="tvInternet">Status Permission Internet</string>
+    <string name="btnCheckPermission">Check Permission</string>
+    <string name="btnRequestPermission">Req Per Cam</string>
+    <string name="btnRequestPermissionBiometric">Req Per Bio</string>
+    <string name="btnRequestPermissionES">Req Per E.S</string>
+    <string name="btnRequestPermissionRS">Req Per R.S</string>
+    <string name="tvResponse"></string>
+
+</resources>
